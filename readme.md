@@ -7,3 +7,5 @@
 [Distributed Immutable Ledger](https://maithaliblock.hashnode.dev/distributed-immutable-ledger)
 
 [How can they use blockchain](https://maithaliblock.hashnode.dev/how-can-they-use-blockchain)
+
+[Is Hashing An Encryption](https://maithaliblock.hashnode.dev/is-hashing-an-encryption)
