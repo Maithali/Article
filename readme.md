@@ -13,3 +13,5 @@
 [peer-to-peer Network](https://maithaliblock.hashnode.dev/p2p-network)
 
 [Blockchain Mining Process](https://maithaliblock.hashnode.dev/blockchain-mining-process)
+
+[What is byzantine Fault Tolerance](https://maithaliblock.hashnode.dev/what-is-byzantine-fault-tolerance)
